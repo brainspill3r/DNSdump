@@ -1,5 +1,3 @@
-Here is a fun and emoji-filled version for your `README.md`! 😊🚀
-
 ```markdown
 # 🕵️‍♂️ DNSDumpster OSINT Scraper 🗺️📊
 
