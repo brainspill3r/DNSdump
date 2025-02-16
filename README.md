@@ -1,4 +1,4 @@
-```markdown
+
 # 🕵️‍♂️ DNSDumpster OSINT Scraper 🗺️📊
 
 This tool scrapes **dnsdumpster.com** to download OSINT maps 🗺️ and Excel reports 📊 for a specific domain.
@@ -10,7 +10,7 @@ This tool scrapes **dnsdumpster.com** to download OSINT maps 🗺️ and Excel r
 ## 🧰 How to Use:
 1️⃣ Simply run the script with no parameters:  
    ```bash
-   python DNSdump.py
+   python DNSdump.py example.com
    ```
 2️⃣ Enter the domain when prompted 🖥️.  
 3️⃣ 📂 Your results (maps & reports) will be saved in the **`resources/`** folder.  
@@ -29,8 +29,8 @@ example.com
 This tool is intended for educational and research purposes only. Use responsibly. 🕵️
 
 Happy scraping! 🐙💙
-```
 
----
+
+
 
 
